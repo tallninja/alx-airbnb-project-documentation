@@ -1,3 +1,3 @@
 # AirBnb Project Features and Functionalities
 
-![Project features and functionalities](PrProject Features and Functionalities.png)
+![Project features and functionalities](Project Features and Functionalities.png)
